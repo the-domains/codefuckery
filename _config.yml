@@ -1,0 +1,14 @@
+layout_spectrum: 0.22095921053551137
+typography_spectrum: 0.9270869675092399
+color:
+  brandStrength: 0.2815753840841353
+  lightness: 0.9699860592372715
+  saturation: 0.9243618422187865
+  rhythmicContrast: 0.24188669142313302
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: codefuckery
